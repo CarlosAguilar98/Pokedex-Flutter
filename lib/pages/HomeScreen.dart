@@ -184,7 +184,7 @@ class _HomeScreenState extends State<HomeScreen> {
         top: 100,
         left: 20,
         child: Text(
-          'pokeTLTC',
+          'POKEDEX',
           style: TextStyle(
               color: Colors.black.withOpacity(0.7),
               fontWeight: FontWeight.bold,
